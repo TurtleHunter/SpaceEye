@@ -126,7 +126,7 @@
     },
     "dependencies": {
         "@kydronepilot/electron-winstore-auto-launch": "^3.0.0",
-        "@material-ui/core": "^4.11.0",
+        "@material-ui/core": "^4.12.4",
         "@material-ui/icons": "^4.9.1",
         "async-lock": "^1.2.4",
         "axios": "^0.19.2",
